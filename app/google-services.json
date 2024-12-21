@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "303641998839",
-    "project_id": "java-project-bc79e",
-    "storage_bucket": "java-project-bc79e.firebasestorage.app"
+    "project_number": "734201353397",
+    "project_id": "project-111f4",
+    "storage_bucket": "project-111f4.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:303641998839:android:86ff8acf0d86fa12642af2",
+        "mobilesdk_app_id": "1:734201353397:android:891ed714de530083161afc",
         "android_client_info": {
           "package_name": "com.example.javaiotapp"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyB2jCpwApOHGqMV1ZjHlyUp0atW7t0QCaI"
+          "current_key": "AIzaSyD5rcXFxSIteidpwUuYyX6ocpMOiatRWj8"
         }
       ],
       "services": {

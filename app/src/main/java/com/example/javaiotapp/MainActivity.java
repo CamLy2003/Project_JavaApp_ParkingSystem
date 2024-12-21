@@ -8,7 +8,7 @@ import android.widget.Button;
 
 import com.google.firebase.auth.FirebaseAuth;
 
-public class MainActivity extends AppCompatActivity {
+public class    MainActivity extends AppCompatActivity {
     Button Logout;
     private FirebaseAuth mAuth;
 
